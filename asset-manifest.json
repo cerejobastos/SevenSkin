@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SevenSkin/static/css/main.27b55446.css",
+    "main.js": "/SevenSkin/static/js/main.743f1284.js",
+    "index.html": "/SevenSkin/index.html",
+    "main.27b55446.css.map": "/SevenSkin/static/css/main.27b55446.css.map",
+    "main.743f1284.js.map": "/SevenSkin/static/js/main.743f1284.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b55446.css",
+    "static/js/main.743f1284.js"
+  ]
+}
