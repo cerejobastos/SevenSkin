@@ -4,8 +4,6 @@ export function NetworkChecker({ children }) {
   const [isOnline, setIsOnline] = useState(navigator.onLine);
 
   useEffect(() => {
-    console.log(children);
-
     const handleStatusChange = () => {
       setIsOnline(navigator.onLine);
     };

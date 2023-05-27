@@ -36,7 +36,7 @@ export const BaseComponent = () => {
     dispatch(fetchHeartRateData());
 
     return () => window.removeEventListener("resize", handleResize, false);
-  }, []);
+  }, [dispatch]);
 
   function getSize() {
     return {
@@ -74,10 +74,10 @@ export const BaseComponent = () => {
             onChange={handleChange}
           />
         </div>
-        {visibleComponent.value == "chart" && (
+        {visibleComponent.value === "chart" && (
           <Chart data={heartRateData} size={size} />
         )}
-        {visibleComponent.value == "table" && <Table size={size} />}
+        {visibleComponent.value === "table" && <Table size={size} />}
       </div>
     </ThemeContext.Provider>
   );
