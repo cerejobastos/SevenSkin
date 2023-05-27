@@ -1,7 +1,6 @@
 import React, { createContext, useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { blue, green, red } from "@mui/material/colors";
-import "../Styles/Styles.css";
 import { fetchHeartRateData } from "../Actions/HeartRate.Actions";
 import { Table, Chart, Dropdown } from "./";
 
