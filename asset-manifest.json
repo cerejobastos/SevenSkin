@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SevenSkin/static/css/main.27b55446.css",
-    "main.js": "/SevenSkin/static/js/main.459df1dc.js",
+    "main.js": "/SevenSkin/static/js/main.4723cf25.js",
     "index.html": "/SevenSkin/index.html",
     "main.27b55446.css.map": "/SevenSkin/static/css/main.27b55446.css.map",
-    "main.459df1dc.js.map": "/SevenSkin/static/js/main.459df1dc.js.map"
+    "main.4723cf25.js.map": "/SevenSkin/static/js/main.4723cf25.js.map"
   },
   "entrypoints": [
     "static/css/main.27b55446.css",
-    "static/js/main.459df1dc.js"
+    "static/js/main.4723cf25.js"
   ]
 }
