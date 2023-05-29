@@ -5,9 +5,8 @@
   "license": "MIT",
   "private": true,
   "homepage": "https://github.io/cerejobastos/SevenSkin",
-  "proxy": "http://localhost/",
+  "proxy": "http://localhost:3000",
   "dependencies": {
-    "@aws-amplify/ui-react": "^4.6.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
     "@fontsource/roboto": "^5.0.1",
@@ -19,7 +18,6 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "aws-amplify": "^5.0.2",
     "express": "^4.16.3",
     "gh-pages": "^5.0.0",
     "react": "^18.2.0",
