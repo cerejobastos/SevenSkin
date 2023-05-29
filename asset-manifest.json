@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SevenSkin/static/css/main.27b55446.css",
-    "main.js": "/SevenSkin/static/js/main.4723cf25.js",
-    "index.html": "/SevenSkin/index.html",
-    "main.27b55446.css.map": "/SevenSkin/static/css/main.27b55446.css.map",
-    "main.4723cf25.js.map": "/SevenSkin/static/js/main.4723cf25.js.map"
+    "main.css": "/cerejobastos/SevenSkin/static/css/main.27b55446.css",
+    "main.js": "/cerejobastos/SevenSkin/static/js/main.a60e60ab.js",
+    "index.html": "/cerejobastos/SevenSkin/index.html",
+    "main.27b55446.css.map": "/cerejobastos/SevenSkin/static/css/main.27b55446.css.map",
+    "main.a60e60ab.js.map": "/cerejobastos/SevenSkin/static/js/main.a60e60ab.js.map"
   },
   "entrypoints": [
     "static/css/main.27b55446.css",
-    "static/js/main.4723cf25.js"
+    "static/js/main.a60e60ab.js"
   ]
 }
