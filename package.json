@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "private": true,
-  "homepage": "https://master.d3ukdab9kas1y3.amplifyapp.com",
+  "homepage": "https://github.io/cerejobastos/SevenSkin",
+  "proxy": "http://localhost/",
   "dependencies": {
     "@aws-amplify/ui-react": "^4.6.0",
     "@emotion/react": "^11.11.0",
